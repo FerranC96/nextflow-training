@@ -1,5 +1,7 @@
 # Nextflow Training [![gitlocalized ](https://gitlocalize.com/repo/8431/pt/badge.svg)](#)[![gitlocalized ](https://gitlocalize.com/repo/8431/fr/badge.svg)](#)[![gitlocalized ](https://gitlocalize.com/repo/8431/es/badge.svg)](#)
 
+Fork created while goind through the basic tutorial. As I will be using an immutable Linux OS without Docker, I will adapt steps where needed to run the tutorial using solely [Singularity](https://sylabs.io/singularity/).
+
 ## » <https://training.nextflow.io> «
 
 [![Open in GitPod](https://img.shields.io/badge/Gitpod-%20Open%20in%20Gitpod-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/nextflow-io/training)
